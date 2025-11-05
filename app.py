@@ -127,9 +127,12 @@ def api_barang():
 
 
 # ========== JALANKAN ==========
+# untuk vercel
+app.run = lambda *args, **kwargs: None
 if __name__ == "__main__":
     if not os.path.exists(DATABASE_FILE):
         # generate 20 sample barang
         sample = [Barang(f"BRG{i:03d}", f"Produk-{i}", "umum", 10000 + i * 500, 10 + i) for i in range(1, 21)]
         save_data(sample)
     app.run(debug=True)
+
