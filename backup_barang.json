@@ -1,0 +1,146 @@
+{
+  "timestamp": "2025-11-05 23:27:02",
+  "jumlah_barang": 20,
+  "barang": [
+    {
+      "id": "BRG001",
+      "nama": "Produk-1",
+      "kategori": "umum",
+      "harga": 10500,
+      "stok": 1
+    },
+    {
+      "id": "BRG002",
+      "nama": "Produk-2",
+      "kategori": "umum",
+      "harga": 11000,
+      "stok": 12
+    },
+    {
+      "id": "BRG003",
+      "nama": "Produk-3",
+      "kategori": "umum",
+      "harga": 11500,
+      "stok": 13
+    },
+    {
+      "id": "BRG004",
+      "nama": "Produk-4",
+      "kategori": "umum",
+      "harga": 12000,
+      "stok": 14
+    },
+    {
+      "id": "BRG005",
+      "nama": "Produk-5",
+      "kategori": "umum",
+      "harga": 12500,
+      "stok": 15
+    },
+    {
+      "id": "BRG006",
+      "nama": "Produk-6",
+      "kategori": "umum",
+      "harga": 13000,
+      "stok": 16
+    },
+    {
+      "id": "BRG007",
+      "nama": "Produk-7",
+      "kategori": "umum",
+      "harga": 13500,
+      "stok": 17
+    },
+    {
+      "id": "BRG008",
+      "nama": "Produk-8",
+      "kategori": "umum",
+      "harga": 14000,
+      "stok": 18
+    },
+    {
+      "id": "BRG009",
+      "nama": "Produk-9",
+      "kategori": "umum",
+      "harga": 14500,
+      "stok": 19
+    },
+    {
+      "id": "BRG010",
+      "nama": "Produk-10",
+      "kategori": "umum",
+      "harga": 15000,
+      "stok": 20
+    },
+    {
+      "id": "BRG011",
+      "nama": "Produk-11",
+      "kategori": "umum",
+      "harga": 15500,
+      "stok": 21
+    },
+    {
+      "id": "BRG012",
+      "nama": "Produk-12",
+      "kategori": "umum",
+      "harga": 16000,
+      "stok": 22
+    },
+    {
+      "id": "BRG013",
+      "nama": "Produk-13",
+      "kategori": "umum",
+      "harga": 16500,
+      "stok": 23
+    },
+    {
+      "id": "BRG014",
+      "nama": "Produk-14",
+      "kategori": "umum",
+      "harga": 17000,
+      "stok": 24
+    },
+    {
+      "id": "BRG015",
+      "nama": "Produk-15",
+      "kategori": "umum",
+      "harga": 17500,
+      "stok": 25
+    },
+    {
+      "id": "BRG016",
+      "nama": "Produk-16",
+      "kategori": "umum",
+      "harga": 18000,
+      "stok": 26
+    },
+    {
+      "id": "BRG017",
+      "nama": "Produk-17",
+      "kategori": "umum",
+      "harga": 18500,
+      "stok": 27
+    },
+    {
+      "id": "BRG018",
+      "nama": "Produk-18",
+      "kategori": "umum",
+      "harga": 19000,
+      "stok": 28
+    },
+    {
+      "id": "BRG019",
+      "nama": "Produk-19",
+      "kategori": "umum",
+      "harga": 19500,
+      "stok": 29
+    },
+    {
+      "id": "BRG020",
+      "nama": "Produk-20",
+      "kategori": "umum",
+      "harga": 20000,
+      "stok": 30
+    }
+  ]
+}
